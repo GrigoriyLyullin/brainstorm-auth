@@ -1,0 +1,13 @@
+spring:
+  data:
+    mongodb:
+      database: brainstorm-auth
+logging:
+  level:
+    org:
+      springframework:
+        security: trace
+brainstorm:
+  bcrypt:
+    rounds: 4
+  jwtSigningKey: U732rJLVNIU2xKPmDO17wfcNjwUnX9cW

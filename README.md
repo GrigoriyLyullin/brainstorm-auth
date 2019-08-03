@@ -1,3 +1,3 @@
-# spring-library-auth
+[![Build Status](https://travis-ci.org/GrigoriyLyullin/brainstorm-auth.svg?branch=master)](https://travis-ci.org/GrigoriyLyullin/brainstorm-auth)
 
-[![Build Status](https://travis-ci.org/GrigoriyLyullin/spring-library-auth.svg?branch=master)](https://travis-ci.org/GrigoriyLyullin/spring-library-auth)
+# brainstorm-auth

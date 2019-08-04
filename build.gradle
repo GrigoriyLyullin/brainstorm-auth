@@ -33,7 +33,6 @@ dependencies {
     compile 'org.glassfish.jaxb:jaxb-runtime:2.3.2'
 
     runtime 'de.flapdoodle.embed:de.flapdoodle.embed.mongo:2.2.0'
-    runtime 'org.springframework.data:spring-data-rest-hal-browser:3.1.0.RELEASE'
     runtime 'com.h2database:h2:1.4.199'
     runtime 'de.flapdoodle.embed:de.flapdoodle.embed.mongo:2.2.0'
 
